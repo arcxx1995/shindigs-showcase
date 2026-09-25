@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/mascot.png" alt="Shindigs mascot" width="120"/>
+<img src="assets/mascot.png" alt="Shindigs mascot" width="110"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/wordmark-lime.png">
