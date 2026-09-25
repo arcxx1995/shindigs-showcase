@@ -8,13 +8,7 @@
 </picture>
 
 ```text
- ███████╗██╗  ██╗██╗███╗   ██╗██████╗ ██╗ ██████╗ ███████╗
- ██╔════╝██║  ██║██║████╗  ██║██╔══██╗██║██╔════╝ ██╔════╝
- ███████╗███████║██║██╔██╗ ██║██║  ██║██║██║  ███╗███████╗
- ╚════██║██╔══██║██║██║╚██╗██║██║  ██║██║██║   ██║╚════██║
- ███████║██║  ██║██║██║ ╚████║██████╔╝██║╚██████╔╝███████║
- ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝ ╚═════╝ ╚══════╝
-   discover  ·  reserve  ·  ticket  ·  scan   —  live acts of India
+$ discover · reserve · ticket · scan  —  live acts of India
 ```
 
 **Event ticketing, reservation and discovery for independent artists, comics and promoters.**
