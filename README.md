@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="assets/logo-wordmark-dark.png" alt="Shindigs" width="260"/>
+<img src="assets/mascot.png" alt="Shindigs mascot" width="120"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/wordmark-lime.png">
+  <img src="assets/wordmark-ink.png" alt="Shindigs" width="340"/>
+</picture>
 
 ```text
  ███████╗██╗  ██╗██╗███╗   ██╗██████╗ ██╗ ██████╗ ███████╗
