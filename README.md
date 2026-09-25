@@ -191,7 +191,7 @@ sequenceDiagram
   A->>A: verify signature · idempotency
   A->>DB: commit order — hold → sale, tickets minted
   A->>M: PDF + QR by email, WhatsApp, on-screen stub
-  Note over DB,A: cron sweeps expired holds and orders;<br/>a reconcile route heals a missed webhook
+  Note over DB,A: cron sweeps expired holds and orders,<br/>a reconcile route heals a missed webhook
 ```
 
 A declined card **retires** the attempt without **terminating** the event for that buyer. An early version locked people out of a whole event after one bad card.
